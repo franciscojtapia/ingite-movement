@@ -1,2 +1,2 @@
-# ingite-movement
+# Ignite Movement
 ignite Movement
